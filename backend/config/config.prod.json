@@ -1,0 +1,12 @@
+{
+	"database": {
+		"connectionString": "mongodb://localhost:27017/finansial-manegment"
+	},
+	"server": {
+		"port": 5001,
+	
+		"routePrefix": "/api/v1"
+
+	}
+
+}

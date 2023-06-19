@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"baseUrl": ".",
+		"lib": ["dom", "es2017"],
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"noImplicitAny": true,
+		"outDir": "dist",
+		"paths": {
+			"*": ["node_modules/*", "src/types/*"]
+		},
+		"resolveJsonModule": true,
+		"sourceMap": true,
+		"target": "es2017"
+	},
+	"include": ["src/**/*"]
+}

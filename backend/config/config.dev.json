@@ -1,0 +1,11 @@
+{
+	"database": {
+		"connectionString": "mongodb://localhost:27017/finansial-manegment"
+	},
+	"server": {
+		"port": 5001,
+		"refreshSecret": "manners make men, man",
+		"routePrefix": "/api/v1"
+	}
+
+}

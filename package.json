@@ -1,0 +1,11 @@
+{
+  "name": "financial-manegment",
+  "private": false,
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "lerna": "^7.0.2"
+  }
+}
